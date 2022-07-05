@@ -53,3 +53,9 @@
     left: 220px;
     position: absolute;
 }
+.pipe{
+    background-color:black;
+    width:60px;
+    height:300px;
+    position:absolute;
+}

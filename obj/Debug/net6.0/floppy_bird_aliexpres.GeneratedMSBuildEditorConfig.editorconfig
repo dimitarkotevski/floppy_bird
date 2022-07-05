@@ -22,8 +22,16 @@ build_property._RazorSourceGeneratorDebug =
 build_metadata.AdditionalFiles.TargetPath = QXBwLnJhem9y
 build_metadata.AdditionalFiles.CssScope = 
 
+[C:/Users/Dimitar Kotevski/source/repos/floppy_bird_aliexpres/Components/Bird.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xCaXJkLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
 [C:/Users/Dimitar Kotevski/source/repos/floppy_bird_aliexpres/Components/GameComponent.razor]
 build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xHYW1lQ29tcG9uZW50LnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Dimitar Kotevski/source/repos/floppy_bird_aliexpres/Components/Pipe.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xQaXBlLnJhem9y
 build_metadata.AdditionalFiles.CssScope = 
 
 [C:/Users/Dimitar Kotevski/source/repos/floppy_bird_aliexpres/Pages/Index.razor]
