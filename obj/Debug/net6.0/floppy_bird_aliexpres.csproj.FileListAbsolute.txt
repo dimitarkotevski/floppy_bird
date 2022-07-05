@@ -805,7 +805,6 @@ C:\Users\Dimitar Kotevski\source\repos\floppy_bird_aliexpres\obj\Debug\net6.0\bl
 C:\Users\Dimitar Kotevski\source\repos\floppy_bird_aliexpres\obj\Debug\net6.0\staticwebassets.build.json
 C:\Users\Dimitar Kotevski\source\repos\floppy_bird_aliexpres\obj\Debug\net6.0\staticwebassets.development.json
 C:\Users\Dimitar Kotevski\source\repos\floppy_bird_aliexpres\obj\Debug\net6.0\scopedcss\Shared\MainLayout.razor.rz.scp.css
-C:\Users\Dimitar Kotevski\source\repos\floppy_bird_aliexpres\obj\Debug\net6.0\scopedcss\Shared\NavMenu.razor.rz.scp.css
 C:\Users\Dimitar Kotevski\source\repos\floppy_bird_aliexpres\obj\Debug\net6.0\scopedcss\bundle\floppy_bird_aliexpres.styles.css
 C:\Users\Dimitar Kotevski\source\repos\floppy_bird_aliexpres\obj\Debug\net6.0\scopedcss\projectbundle\floppy_bird_aliexpres.bundle.scp.css
 C:\Users\Dimitar Kotevski\source\repos\floppy_bird_aliexpres\obj\Debug\net6.0\floppy_bird_aliexpres.csproj.CopyComplete
