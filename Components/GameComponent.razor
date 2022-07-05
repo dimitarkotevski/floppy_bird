@@ -1,6 +1,21 @@
-﻿<div class="game-container">
+﻿<div class="game-container" @onclick="StartGame">
     <div class="sky">
-        <div class="bird"></div>
+        <div class="bird" style="@_birdCss"></div>
     </div>
     <div class="ground"></div>
 </div>
+
+@code{
+    GameManager _gameManager;
+    string _birdCss => $"bottom: {_gameManager.Bird.DistanceFromGround}px";
+
+    protected override void OnInitialized()
+    {
+        _gameManager = new GameManager();
+        _gameManager.PropertyChanged+=(o,e)=> StateHasChanged();
+    }
+    void StartGame()
+    {
+        _gameManager.MainLoop();
+    }
+}
