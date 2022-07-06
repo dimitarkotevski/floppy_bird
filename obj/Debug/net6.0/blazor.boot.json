@@ -196,13 +196,13 @@
       "mscorlib.dll": "sha256-zNVxhWqav+Wvwc8mjOqsl40bhVLw78MhgITrphqoROc=",
       "netstandard.dll": "sha256-yQ7oiuGXRX47V21EibXbfTPXOkJGOgCJhW9YF6e4hw0=",
       "System.Private.CoreLib.dll": "sha256-Ug2\/rd8Ck7Dls6uaZNmrqc7EvE8f41iX96qdX57LStQ=",
-      "floppy_bird_aliexpres.dll": "sha256-5CIj0GdtKzotYoTjakTQOrLfv5MgEw9BSeTrhu30i2Q="
+      "floppy_bird_aliexpres.dll": "sha256-FMfZploEQIQTXvSqLFmAIp+fK2vAbc0iOMubZzeYZq0="
     },
     "extensions": null,
     "lazyAssembly": null,
     "libraryInitializers": null,
     "pdb": {
-      "floppy_bird_aliexpres.pdb": "sha256-DmzmgQpJOxxtSl25bhvVMVZYZcBp24H02mBYYQYrLOM="
+      "floppy_bird_aliexpres.pdb": "sha256-\/JjkmXtgMOtcz9c9\/+TkHBkmhrgNZJZmQMgTKNvIuec="
     },
     "runtime": {
       "dotnet.6.0.6.manznuezlj.js": "sha256-zJXgw\/tAzTVOXksPhtpZVT12vxHC7S9mQyBRM36dwD0=",

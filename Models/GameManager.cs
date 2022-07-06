@@ -48,8 +48,19 @@ namespace floppy_bird_aliexpres.Models
         {
             if (Bird.DistanceFromGround <= 0)
                 GameOver();
-            
+
+            var centeredPipe = Pipes.FirstOrDefault(p => p.isCentered());
+            if(centeredPipe != null)
+            {
+                bool hasCollidedWithBottom = Bird.DistanceFromGround < centeredPipe.GapBottom - 150;
+                bool hasCollidedWithTop = Bird.DistanceFromGround+45 > centeredPipe.GapTop - 150;
+                if(hasCollidedWithBottom || hasCollidedWithTop)
+                {
+                    GameOver();
+                }
+            }
         }
+        
         public void MoveObject()
         {
             Bird.Fall(gravity);
